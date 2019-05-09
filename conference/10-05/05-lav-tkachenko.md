@@ -12,3 +12,4 @@ YAROSLAV TKACHENKO
         - [confluent schema registry](https://www.confluent.io/confluent-schema-registry/)
 
 - kafka and k8s
+- https://avro.apache.org/
